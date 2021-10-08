@@ -210,8 +210,10 @@
     color: rgb(50,58,166);
     margin-left:auto;
     margin-right:auto;
-    position:relative;
-    top:200px;
+    position:absolute;
+    top:150px;
+    left:200px;
+    right:200px;
     animation-name: ;
     animation-duration:4s;
     animation-iteration-count: infinite;
