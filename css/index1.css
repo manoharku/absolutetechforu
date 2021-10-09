@@ -136,7 +136,7 @@
 
             
 
-            @media screen and (max-width: 600px) {
+            @media screen and (min-width: 600px) {
                 .topnav a, .topnav input[type=text]{
                 float: none;
                 display: block;
